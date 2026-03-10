@@ -5,6 +5,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <RootNamespace>Jellyfin.Plugin.Suggestions</RootNamespace>
+    <AssemblyName>Jellyfin.Plugin.Suggestions</AssemblyName>
+    <Version>0.1.0.0</Version>
+    <FileVersion>0.1.0.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,5 +19,6 @@
   <ItemGroup>
     <EmbeddedResource Include="Web/admin/suggestions.html" />
     <EmbeddedResource Include="Web/admin/suggestions.js" />
+    <None Include="meta.json" CopyToOutputDirectory="Always" />
   </ItemGroup>
 </Project>
