@@ -1,0 +1,9 @@
+{
+  "guid": "2a95cbab-9ced-4093-ac5a-cbfbe35e4e95",
+  "name": "Content Suggestions",
+  "description": "Allows users to suggest movies, TV shows, books/audiobooks, and songs with admin moderation and duplicate detection.",
+  "overview": "User suggestion workflow with admin moderation.",
+  "owner": "PickApartCode",
+  "category": "General",
+  "versions": []
+}

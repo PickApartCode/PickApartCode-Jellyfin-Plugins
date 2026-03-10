@@ -1,0 +1,21 @@
+[
+  {
+    "guid": "2a95cbab-9ced-4093-ac5a-cbfbe35e4e95",
+    "name": "Content Suggestions",
+    "description": "Allows users to suggest movies, TV shows, books/audiobooks, and songs with admin moderation and duplicate detection.",
+    "overview": "User suggestion workflow with admin moderation.",
+    "owner": "PickApartCode",
+    "category": "General",
+    "imageUrl": "",
+    "versions": [
+      {
+        "version": "0.1.0.0",
+        "changelog": "Initial release",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://github.com/PickApartCode/PickApartCode-Jellyfin-Plugins/releases/download/v0.1.0.0/Jellyfin.Plugin.Suggestions_0.1.0.0.zip",
+        "checksum": "",
+        "timestamp": "2026-03-10T00:00:00Z"
+      }
+    ]
+  }
+]
